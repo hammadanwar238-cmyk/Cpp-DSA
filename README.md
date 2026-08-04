@@ -16,4 +16,16 @@ cloud storage of my leetcode DSA questions
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0024-swap-nodes-in-pairs) |
+## Array
+|  |
+| ------- |
+| [0078-subsets](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0078-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
