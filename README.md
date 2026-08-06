@@ -20,12 +20,14 @@ cloud storage of my leetcode DSA questions
 |  |
 | ------- |
 | [0046-permutations](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0090-subsets-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0046-permutations](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
@@ -33,4 +35,8 @@ cloud storage of my leetcode DSA questions
 | ------- |
 | [0078-subsets](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0090-subsets-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
