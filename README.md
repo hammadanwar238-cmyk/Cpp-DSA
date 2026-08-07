@@ -6,6 +6,7 @@ cloud storage of my leetcode DSA questions
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0138-copy-list-with-random-pointer) |
 ## Linked List
 |  |
@@ -19,6 +20,7 @@ cloud storage of my leetcode DSA questions
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0078-subsets) |
@@ -26,6 +28,7 @@ cloud storage of my leetcode DSA questions
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0078-subsets) |
@@ -38,5 +41,14 @@ cloud storage of my leetcode DSA questions
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0051-n-queens) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
