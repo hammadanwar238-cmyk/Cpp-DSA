@@ -35,6 +35,7 @@ cloud storage of my leetcode DSA questions
 | [0051-n-queens](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,4 +54,12 @@ cloud storage of my leetcode DSA questions
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0037-sudoku-solver) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0131-palindrome-partitioning) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
