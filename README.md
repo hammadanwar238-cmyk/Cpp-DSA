@@ -31,6 +31,7 @@ cloud storage of my leetcode DSA questions
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0040-combination-sum-ii) |
@@ -62,9 +63,15 @@ cloud storage of my leetcode DSA questions
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0131-palindrome-partitioning) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
