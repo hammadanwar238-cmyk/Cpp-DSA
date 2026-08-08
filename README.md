@@ -27,6 +27,7 @@ cloud storage of my leetcode DSA questions
 | [0051-n-queens](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0216-combination-sum-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -38,6 +39,7 @@ cloud storage of my leetcode DSA questions
 | [0078-subsets](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0131-palindrome-partitioning) |
+| [0216-combination-sum-iii](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
