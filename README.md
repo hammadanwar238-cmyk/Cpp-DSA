@@ -10,6 +10,7 @@ cloud storage of my leetcode DSA questions
 | [0138-copy-list-with-random-pointer](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0219-contains-duplicate-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -32,6 +33,7 @@ cloud storage of my leetcode DSA questions
 | [0090-subsets-ii](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0219-contains-duplicate-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -114,4 +116,8 @@ cloud storage of my leetcode DSA questions
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0217-contains-duplicate) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
