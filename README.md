@@ -20,6 +20,7 @@ cloud storage of my leetcode DSA questions
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0040-combination-sum-ii) |
@@ -75,4 +76,8 @@ cloud storage of my leetcode DSA questions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0022-generate-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
