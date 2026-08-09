@@ -8,6 +8,7 @@ cloud storage of my leetcode DSA questions
 | ------- |
 | [0037-sudoku-solver](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0202-happy-number](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
@@ -82,6 +83,7 @@ cloud storage of my leetcode DSA questions
 | ------- |
 | [0027-remove-element](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0202-happy-number) |
 ## String Matching
 |  |
 | ------- |
@@ -98,4 +100,12 @@ cloud storage of my leetcode DSA questions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
