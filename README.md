@@ -64,6 +64,7 @@ cloud storage of my leetcode DSA questions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
