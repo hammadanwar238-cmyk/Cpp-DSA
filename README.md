@@ -65,6 +65,7 @@ cloud storage of my leetcode DSA questions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
@@ -80,4 +81,21 @@ cloud storage of my leetcode DSA questions
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
