@@ -120,4 +120,20 @@ cloud storage of my leetcode DSA questions
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0219-contains-duplicate-ii) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
