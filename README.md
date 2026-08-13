@@ -31,6 +31,7 @@ cloud storage of my leetcode DSA questions
 | [0051-n-queens](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0118-pascals-triangle) |
 | [0216-combination-sum-iii](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0219-contains-duplicate-ii) |
@@ -77,6 +78,7 @@ cloud storage of my leetcode DSA questions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
