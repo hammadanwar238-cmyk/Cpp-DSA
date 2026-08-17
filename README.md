@@ -7,6 +7,7 @@ cloud storage of my leetcode DSA questions
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0037-sudoku-solver) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0217-contains-duplicate) |
@@ -31,6 +32,7 @@ cloud storage of my leetcode DSA questions
 | [0051-n-queens](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0118-pascals-triangle) |
 | [0216-combination-sum-iii](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0217-contains-duplicate) |
@@ -135,6 +137,7 @@ cloud storage of my leetcode DSA questions
 | [0094-binary-tree-inorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -156,6 +159,7 @@ cloud storage of my leetcode DSA questions
 | [0094-binary-tree-inorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -182,4 +186,8 @@ cloud storage of my leetcode DSA questions
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
