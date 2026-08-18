@@ -51,6 +51,7 @@ cloud storage of my leetcode DSA questions
 | [0090-subsets-ii](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -76,6 +77,7 @@ cloud storage of my leetcode DSA questions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0257-binary-tree-paths) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -141,6 +143,7 @@ cloud storage of my leetcode DSA questions
 | [0144-binary-tree-preorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -151,6 +154,7 @@ cloud storage of my leetcode DSA questions
 | [0144-binary-tree-preorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -163,6 +167,7 @@ cloud storage of my leetcode DSA questions
 | [0144-binary-tree-preorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
