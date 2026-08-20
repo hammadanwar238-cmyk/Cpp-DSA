@@ -150,6 +150,7 @@ cloud storage of my leetcode DSA questions
 | [0543-diameter-of-binary-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -178,6 +179,7 @@ cloud storage of my leetcode DSA questions
 | [0543-diameter-of-binary-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -204,4 +206,8 @@ cloud storage of my leetcode DSA questions
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
