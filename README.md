@@ -148,6 +148,7 @@ cloud storage of my leetcode DSA questions
 | [0145-binary-tree-postorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -179,6 +180,7 @@ cloud storage of my leetcode DSA questions
 | [0145-binary-tree-postorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -213,5 +215,6 @@ cloud storage of my leetcode DSA questions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
