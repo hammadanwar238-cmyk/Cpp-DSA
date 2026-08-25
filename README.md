@@ -58,6 +58,7 @@ cloud storage of my leetcode DSA questions
 | ------- |
 | [0078-subsets](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Algorithm X
 |  |
 | ------- |
@@ -147,6 +148,7 @@ cloud storage of my leetcode DSA questions
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0450-delete-node-in-a-bst) |
@@ -181,6 +183,7 @@ cloud storage of my leetcode DSA questions
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0450-delete-node-in-a-bst) |
@@ -218,6 +221,7 @@ cloud storage of my leetcode DSA questions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0450-delete-node-in-a-bst](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
