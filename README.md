@@ -117,6 +117,7 @@ cloud storage of my leetcode DSA questions
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0258-add-digits) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -224,4 +225,12 @@ cloud storage of my leetcode DSA questions
 | [0222-count-complete-tree-nodes](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0450-delete-node-in-a-bst](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0700-search-in-a-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
