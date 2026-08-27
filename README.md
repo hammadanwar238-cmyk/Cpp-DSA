@@ -38,6 +38,7 @@ cloud storage of my leetcode DSA questions
 | [0216-combination-sum-iii](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0485-max-consecutive-ones](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0485-max-consecutive-ones) |
 ## Backtracking
 |  |
 | ------- |
