@@ -86,6 +86,7 @@ cloud storage of my leetcode DSA questions
 | ------- |
 | [0022-generate-parentheses](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0118-pascals-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
@@ -148,6 +149,7 @@ cloud storage of my leetcode DSA questions
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0222-count-complete-tree-nodes) |
@@ -167,6 +169,7 @@ cloud storage of my leetcode DSA questions
 | [0104-maximum-depth-of-binary-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -185,6 +188,7 @@ cloud storage of my leetcode DSA questions
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0222-count-complete-tree-nodes) |
@@ -211,6 +215,7 @@ cloud storage of my leetcode DSA questions
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Lifting
 |  |
