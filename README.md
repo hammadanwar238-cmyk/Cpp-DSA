@@ -39,6 +39,7 @@ cloud storage of my leetcode DSA questions
 | [0217-contains-duplicate](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0485-max-consecutive-ones) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
@@ -139,6 +140,7 @@ cloud storage of my leetcode DSA questions
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -167,6 +169,7 @@ cloud storage of my leetcode DSA questions
 | [0662-maximum-width-of-binary-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -217,6 +220,7 @@ cloud storage of my leetcode DSA questions
 | [0662-maximum-width-of-binary-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -261,6 +265,7 @@ cloud storage of my leetcode DSA questions
 | [0450-delete-node-in-a-bst](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Simulation
 |  |
 | ------- |
@@ -269,4 +274,8 @@ cloud storage of my leetcode DSA questions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/0258-add-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hammadanwar238-cmyk/Cpp-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
